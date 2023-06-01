@@ -29,8 +29,7 @@ public class PlayedGamesService {
            PlayedGamesEntity count = (PlayedGamesEntity) currentCount.get();
            return count.getId();
        } else {
-           return 69;
-           // throw new RuntimeException("No count found.");
+           throw new RuntimeException("No count found.");
        }
     }
 
@@ -41,10 +40,9 @@ public class PlayedGamesService {
             PlayedGamesEntity newCount = (PlayedGamesEntity) currentCount.get();
             newCount.setCount(newCount.getCount() +1);
             repository.save(newCount);
-            return newCount.getId();
+            return newCount.getCount();
         } else {
-            return 69;
-            // throw new RuntimeException("No count found.");
+            throw new RuntimeException("No count found.");
         }
     }
 }
