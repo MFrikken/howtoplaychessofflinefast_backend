@@ -1,5 +1,5 @@
-/home/vr-lab/IdeaProjects/howtoplaychessofflinefast_backend/src/main/java/com/example/howtoplaychessofflinefast_backend/entity/PlayedGamesEntity.java
-/home/vr-lab/IdeaProjects/howtoplaychessofflinefast_backend/src/main/java/com/example/howtoplaychessofflinefast_backend/repository/PlayedGamesRepository.java
-/home/vr-lab/IdeaProjects/howtoplaychessofflinefast_backend/src/main/java/com/example/howtoplaychessofflinefast_backend/controller/PlayedGamesController.java
-/home/vr-lab/IdeaProjects/howtoplaychessofflinefast_backend/src/main/java/com/example/howtoplaychessofflinefast_backend/service/PlayedGamesService.java
-/home/vr-lab/IdeaProjects/howtoplaychessofflinefast_backend/src/main/java/com/example/howtoplaychessofflinefast_backend/HowtoplaychessofflinefastBackendApplication.java
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\service\PlayedGamesService.java
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\entity\PlayedGamesEntity.java
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\repository\PlayedGamesRepository.java
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\HowtoplaychessofflinefastBackendApplication.java
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\controller\PlayedGamesController.java

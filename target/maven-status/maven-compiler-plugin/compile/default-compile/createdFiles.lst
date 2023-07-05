@@ -1,0 +1,5 @@
+com\example\howtoplaychessofflinefast_backend\repository\PlayedGamesRepository.class
+com\example\howtoplaychessofflinefast_backend\HowtoplaychessofflinefastBackendApplication.class
+com\example\howtoplaychessofflinefast_backend\entity\PlayedGamesEntity.class
+com\example\howtoplaychessofflinefast_backend\service\PlayedGamesService.class
+com\example\howtoplaychessofflinefast_backend\controller\PlayedGamesController.class
