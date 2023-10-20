@@ -1,5 +1,9 @@
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\controller\ComplimentsController.java
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\entity\ComplimentsEntity.java
 D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\service\PlayedGamesService.java
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\service\ComplimentsService.java
 D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\entity\PlayedGamesEntity.java
+D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\repository\ComplimentsRepository.java
 D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\repository\PlayedGamesRepository.java
 D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\HowtoplaychessofflinefastBackendApplication.java
 D:\IdeaProjects\howtoplaychessofflinefast_backend\src\main\java\com\example\howtoplaychessofflinefast_backend\controller\PlayedGamesController.java
