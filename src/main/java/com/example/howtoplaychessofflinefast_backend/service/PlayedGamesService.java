@@ -23,21 +23,21 @@ public class PlayedGamesService {
     }
 
     public Integer getCount() {
-       Optional currentCount = repository.findById(1);
+       Optional<PlayedGamesEntity> currentCount = repository.findById(1);
 
        if (currentCount.isPresent()) {
-           PlayedGamesEntity count = (PlayedGamesEntity) currentCount.get();
-           return count.getId();
+           PlayedGamesEntity count = currentCount.get();
+           return count.getCount();
        } else {
            throw new RuntimeException("No count found.");
        }
     }
 
     public Integer increaseCount() {
-        Optional currentCount = repository.findById(1);
+        Optional<PlayedGamesEntity> currentCount = repository.findById(1);
 
         if (currentCount.isPresent()) {
-            PlayedGamesEntity newCount = (PlayedGamesEntity) currentCount.get();
+            PlayedGamesEntity newCount = currentCount.get();
             newCount.setCount(newCount.getCount() +1);
             repository.save(newCount);
             return newCount.getCount();
