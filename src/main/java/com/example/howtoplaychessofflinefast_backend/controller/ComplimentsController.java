@@ -4,7 +4,7 @@ import com.example.howtoplaychessofflinefast_backend.service.ComplimentsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin
+@CrossOrigin(origins = "https://annie-time.de:3001")
 @RestController
 @RequestMapping(path = "/compliments")
 public class ComplimentsController {

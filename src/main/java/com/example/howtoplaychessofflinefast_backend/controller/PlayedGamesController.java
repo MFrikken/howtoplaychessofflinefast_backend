@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.List;
 
-@CrossOrigin
+@CrossOrigin(origins = "https://howtoplaychessofflinefast.com:3000")
 @RestController
 @RequestMapping(path = "/playedGames")
 public class PlayedGamesController {
